@@ -3,7 +3,7 @@ title: NeRF
 draft: false
 tags:
   - 3D_representation
-description: Nerf is an implicit 3D repr
+description: Nerf is an implicit, continuous 3D representation.
 date: 2024-02-04
 ---
 ## TLDR
